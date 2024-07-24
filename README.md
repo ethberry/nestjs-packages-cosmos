@@ -1,1 +1,3 @@
-# nestjs-packages-cosmos
+# NestJS Packages
+
+Welcome to the world of common utils and half-assed modules :)
