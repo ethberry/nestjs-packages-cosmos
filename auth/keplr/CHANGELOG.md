@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 2.0.1 (2024-07-25)
+
+### Bug Fixes
+
+- manual publish [skip ci] ([ceb063c](https://github.com/gemunion/nestjs-packages/commit/ceb063c6469598d7bd82d2020a315b6119ef3ddb))
+
 ## [1.1.42](https://github.com/gemunion/nestjs-packages/compare/@gemunion/nest-js-module-keplr@1.1.41...@gemunion/nest-js-module-keplr@1.1.42) (2024-07-18)
 
 ### Bug Fixes
