@@ -25,6 +25,7 @@ jobs:
           # see https://stackoverflow.com/a/60184319/9285308 & https://github.com/actions/checkout
           fetch-depth: "0"
       # pulls all tags (needed for lerna to correctly version)
+      # !!! first publish from new repo must be without extra flags +refs/tags/*:refs/tags/* !!!
       - run: git fetch --depth=1 origin +refs/tags/*:refs/tags/* # see https://stackoverflow.com/a/60184319/9285308
 
       - name: Authenticate Registry & Configure Git User
