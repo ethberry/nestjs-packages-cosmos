@@ -2,8 +2,8 @@ import { Injectable } from "@nestjs/common";
 import { verifyADR36Amino } from "@keplr-wallet/cosmos";
 import { decodeSignature } from "@cosmjs/amino";
 
-import { phrase } from "@gemunion/constants";
-import { IKeplrDto } from "@gemunion/types-jwt";
+import { phrase } from "@ethberry/constants";
+import { IKeplrDto } from "@ethberry/types-jwt";
 
 @Injectable()
 export class KeplrService {

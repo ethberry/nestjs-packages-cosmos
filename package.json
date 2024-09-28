@@ -1,8 +1,8 @@
 {
   "author": {
-    "email": "trejgun@gemunion.io",
+    "email": "trejgun@gmail.com",
     "name": "TrejGun",
-    "url": "https://gemunion.io/"
+    "url": "https://ethberry.io/"
   },
   "dependencies": {
     "@lerna/legacy-package-management": "8.1.8",
@@ -33,10 +33,10 @@
     "node": ">=22"
   },
   "license": "UNLICENSED",
-  "name": "@gemunion/common-packages",
+  "name": "@ethberry/nestjs-packages-cosmos",
   "repository": {
     "type": "git",
-    "url": "https://github.com/gemunion/nestjs-packages"
+    "url": "https://github.com/ethberry/nestjs-packages-cosmos"
   },
   "scripts": {
     "bootstrap": "lerna bootstrap --concurrency 1 --hoist --ignore-scripts",
@@ -48,7 +48,7 @@
     "lerna:version": "lerna version --ignore-scripts",
     "lint": "lerna run lint --stream --parallel",
     "obfuscate": "sh scripts/obfuscate.sh",
-    "prettier": "prettier \"modules/**/*.{ts,tsx}\" \"other/**/*.{ts,tsx}\" \"utils/**/*.{ts,tsx}\" --write",
+    "prettier": "prettier . --write",
     "storybook": "start-storybook -p 6006",
     "test": "sh scripts/test.sh"
   },

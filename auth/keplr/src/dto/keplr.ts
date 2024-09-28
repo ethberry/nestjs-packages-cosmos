@@ -1,8 +1,8 @@
 import { ApiProperty } from "@nestjs/swagger";
 import { StdSignature } from "@keplr-wallet/types";
-import { IsString, IsUUID} from "class-validator";
+import { IsString, IsUUID } from "class-validator";
 
-import { IKeplrDto } from "@gemunion/types-jwt";
+import { IKeplrDto } from "@ethberry/types-jwt";
 
 export class KeplrDto implements IKeplrDto {
   @ApiProperty()
