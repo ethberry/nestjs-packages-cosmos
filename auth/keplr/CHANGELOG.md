@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.1.4](https://github.com/ethberry/nestjs-packages-cosmos/compare/@ethberry/nest-js-module-keplr@2.1.3...@ethberry/nest-js-module-keplr@2.1.4) (2024-10-05)
+
+### Bug Fixes
+
+- **deps:** update [@ethberry](https://github.com/ethberry) packages ([92d4056](https://github.com/ethberry/nestjs-packages-cosmos/commit/92d4056fe903d883aaaac98cd2fa242f1eb4fb2e))
+- **deps:** update all non-major dependencies ([09060cd](https://github.com/ethberry/nestjs-packages-cosmos/commit/09060cdd90acf9ef5bebf921e58c0d533588eabb))
+
 ## 2.1.3 (2024-09-28)
 
 **Note:** Version bump only for package @ethberry/nest-js-module-keplr
