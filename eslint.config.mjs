@@ -12,9 +12,6 @@ export default [
         project: [
           "./tsconfig.eslint.json",
           "./auth/*/tsconfig.eslint.json",
-          "./ipfs/*/tsconfig.eslint.json",
-          "./modules/*/tsconfig.eslint.json",
-          "./utils/*/tsconfig.eslint.json",
         ],
         tsconfigRootDir: import.meta.dirname,
       },
