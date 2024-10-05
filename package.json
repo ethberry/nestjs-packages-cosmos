@@ -7,17 +7,17 @@
   "dependencies": {
     "@lerna/legacy-package-management": "8.1.8",
     "lerna": "8.1.8",
-    "nx": "19.8.0"
+    "nx": "19.8.4"
   },
   "devDependencies": {
     "@ethberry/eslint-config": "5.0.2",
-    "@typescript-eslint/eslint-plugin": "8.6.0",
-    "@typescript-eslint/parser": "8.6.0",
+    "@typescript-eslint/eslint-plugin": "8.8.0",
+    "@typescript-eslint/parser": "8.8.0",
     "eslint": "8.57.1",
     "eslint-config-prettier": "9.1.0",
     "eslint-config-standard": "17.1.0",
     "eslint-import-resolver-typescript": "3.6.3",
-    "eslint-plugin-import": "2.30.0",
+    "eslint-plugin-import": "2.31.0",
     "eslint-plugin-jest": "27.9.0",
     "eslint-plugin-n": "16.6.2",
     "eslint-plugin-prettier": "5.2.1",
