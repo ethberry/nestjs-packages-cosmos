@@ -10,7 +10,7 @@
     "nx": "19.8.4"
   },
   "devDependencies": {
-    "@ethberry/eslint-config": "5.0.2",
+    "@ethberry/eslint-config": "5.0.4",
     "@typescript-eslint/eslint-plugin": "8.8.0",
     "@typescript-eslint/parser": "8.8.0",
     "eslint": "8.57.1",
