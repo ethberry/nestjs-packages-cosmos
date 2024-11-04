@@ -14,7 +14,8 @@
     "@keplr-wallet/cosmos": "0.12.149",
     "@keplr-wallet/types": "0.12.149",
     "class-transformer": "0.5.1",
-    "class-validator": "0.14.1"
+    "class-validator": "0.14.1",
+    "starknet": "6.11.0"
   },
   "devDependencies": {
     "@ethberry/nest-js-module-license": "4.0.44",
@@ -40,7 +41,7 @@
   "peerDependencies": {
     "@ethberry/nest-js-module-license": "^4.0.0",
     "@nestjs/common": "^10.0.0",
-    "@nestjs/swagger": "^7.0.0 || ^8.0.0"
+    "@nestjs/swagger": "^8.0.0"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
