@@ -11,8 +11,8 @@
     "@cosmjs/amino": "0.32.4",
     "@ethberry/constants": "0.13.5",
     "@ethberry/types-jwt": "0.4.8",
-    "@keplr-wallet/cosmos": "0.12.149",
-    "@keplr-wallet/types": "0.12.149",
+    "@keplr-wallet/cosmos": "0.12.156",
+    "@keplr-wallet/types": "0.12.156",
     "class-transformer": "0.5.1",
     "class-validator": "0.14.1",
     "starknet": "6.11.0"
@@ -29,7 +29,7 @@
     "jest": "29.7.0",
     "jest-environment-node": "29.7.0",
     "ts-jest": "29.2.5",
-    "uuid": "11.0.2"
+    "uuid": "11.0.3"
   },
   "engines": {
     "node": ">=22"
