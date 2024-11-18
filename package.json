@@ -7,12 +7,12 @@
   "dependencies": {
     "@lerna/legacy-package-management": "8.1.9",
     "lerna": "8.1.9",
-    "nx": "20.0.8"
+    "nx": "20.1.2"
   },
   "devDependencies": {
     "@ethberry/eslint-config": "5.0.4",
-    "@typescript-eslint/eslint-plugin": "8.12.2",
-    "@typescript-eslint/parser": "8.12.2",
+    "@typescript-eslint/eslint-plugin": "8.14.0",
+    "@typescript-eslint/parser": "8.14.0",
     "husky": "9.1.6",
     "javascript-obfuscator": "4.1.1",
     "lint-staged": "15.2.10",
