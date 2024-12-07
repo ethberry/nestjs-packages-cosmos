@@ -3,6 +3,10 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.0.1](https://github.com/ethberry/nestjs-packages-cosmos/compare/@ethberry/nest-js-module-keplr@3.0.0...@ethberry/nest-js-module-keplr@3.0.1) (2024-12-07)
+
+**Note:** Version bump only for package @ethberry/nest-js-module-keplr
+
 # [3.0.0](https://github.com/ethberry/nestjs-packages-cosmos/compare/@ethberry/nest-js-module-keplr@2.1.6...@ethberry/nest-js-module-keplr@3.0.0) (2024-12-07)
 
 ### Bug Fixes
