@@ -18,7 +18,7 @@
     "starknet": "6.11.0"
   },
   "devDependencies": {
-    "@ethberry/nest-js-module-license": "4.0.45",
+    "@ethberry/nest-js-module-license": "5.0.0",
     "@nestjs/common": "10.4.13",
     "@nestjs/core": "10.4.13",
     "@nestjs/swagger": "8.1.0",
@@ -39,7 +39,7 @@
   "main": "./dist/index.js",
   "name": "@ethberry/nest-js-module-keplr",
   "peerDependencies": {
-    "@ethberry/nest-js-module-license": "^4.0.0",
+    "@ethberry/nest-js-module-license": "^4.0.0 || ^5.0.0",
     "@nestjs/common": "^10.0.0",
     "@nestjs/swagger": "^8.0.0"
   },
