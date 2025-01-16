@@ -8,11 +8,11 @@
     "url": "https://github.com/ethberry/nestjs-packages-cosmos/issues"
   },
   "dependencies": {
-    "@cosmjs/amino": "0.32.4",
+    "@cosmjs/amino": "0.33.0",
     "@ethberry/constants": "0.13.6",
     "@ethberry/types-jwt": "0.4.9",
-    "@keplr-wallet/cosmos": "0.12.159",
-    "@keplr-wallet/types": "0.12.159",
+    "@keplr-wallet/cosmos": "0.12.175",
+    "@keplr-wallet/types": "0.12.175",
     "class-transformer": "0.5.1",
     "class-validator": "0.14.1",
     "starknet": "6.11.0"
@@ -25,11 +25,11 @@
     "@nestjs/testing": "10.4.13",
     "@types/jest": "29.5.14",
     "@types/uuid": "10.0.0",
-    "ethers": "6.13.4",
+    "ethers": "6.13.5",
     "jest": "29.7.0",
     "jest-environment-node": "29.7.0",
     "ts-jest": "29.2.5",
-    "uuid": "11.0.3"
+    "uuid": "11.0.5"
   },
   "engines": {
     "node": ">=22"
